@@ -1,0 +1,6 @@
+---
+# defaults file for webserver
+package_name: httpd
+firewall_ports:
+  - 80/tcp   # Add any other ports you want to open
+
